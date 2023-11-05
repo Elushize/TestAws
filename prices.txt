@@ -2,4 +2,4 @@ Orange - 100
 Pawpaw - 50
 Mang0 - 20
 Pear - 35
-Cocnut - 150
+Coconut - 150
